@@ -1,0 +1,25 @@
+
+35620 New York
+31080 Los Angeles
+16980 Chicago
+47900 Washington DC
+41860 San Francisco
+26420 Houston
+19100 Dallas
+12060 Atlanta
+37980 Philadelphia
+33100 Miami
+38060 Phoenix
+14460 Boston
+40140 Riverside
+19820 Detroit
+42660 Seattle
+33460 Minneapolis
+41740 San Diego
+45300 Tampa
+12580 Baltimore
+41940 San Jose
+39300 Providence
+19740 Denver
+41180 St. Louis
+

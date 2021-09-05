@@ -29,6 +29,11 @@ are the primary determinant of effective density for the majority of Americans i
 is mostly single-family homes, they are mostly on small properties that lead to a higher density-in-reality for most residents
 than what we observe in Philadelphia, where the majority of residents live in low-density sprawl, despite its larger urban core.
 
+The density that cities become known for -- where Boston and Philadelphia still rank high -- are instead found in the
+top two octiles, where we can clearly see that the core of Boston is much denser than that of Denver. The top-octile rankings of
+cities largely reproduce the "common knowledge" belief that older, more expensive cities tend to be more dense. But as we can
+see, this does not always extend to the median resident's lifestyle.
+
 ## Where did you get these data?
 
 The population and area of ZIP codes were compiled by [Splitwise](http://splitwise.com) and made freely available based on

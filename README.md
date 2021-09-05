@@ -1,6 +1,6 @@
 # US metropolitan areas by median population density
 
-![Graph of cities by median population density with octiles](/scythe/mdqs/city_pdqs.jpg)
+![Graph of cities by median population density with octiles](https://raw.githubusercontent.com/scythe/mdqs/master/city_pdqs.jpg)
 
 The median population density for a metropolitan area, considered by ZIP code, is defined as the density of a zip code
 such that half of the people in the metro area live in ZIP codes with lower population densities and half live in zip codes

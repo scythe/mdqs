@@ -31,7 +31,7 @@ Tables giving the relationship between ZIP codes and county boundaries (hence me
 
 https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
-These were compiled by a simple [Clojure script](http://github.com/scythe/mdqs/quantiles.clj) into point estimates of the [quantile function](http://en.wikipedia.org/wiki/Quantile_function) which relates population fractions to densities. 
+These were compiled by a simple [Clojure script](http://github.com/scythe/mdqs/blob/master/quantiles.clj) into point estimates of the [quantile function](http://en.wikipedia.org/wiki/Quantile_function) which relates population fractions to densities. 
 
 ## Are the results reliable? Why not use census blocks?
 

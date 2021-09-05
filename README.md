@@ -7,15 +7,24 @@ such that half of the people in the metro area live in ZIP codes with lower popu
 with higher population densities. The octiles are defined similarly, with 12.5%, 25%, etc living in zip codes with densities
 lower than the octile density. Where necessary, linear interpolation is applied, although this has a small effect.
 
+The 20 largest metropolitan areas (from New York to St. Louis) are included, as well as three "satellites" of larger 
+metropolitan areas: San Jose (to SF-Oakland), Baltimore (to Washington) and Providence (to Boston). These three were included
+because I thought that the overall population pressure resulting from their association with the larger areas would result in
+population distributions similar to larger cities. In fact, we find that the median density in the San Jose metro is *higher*
+than that in its "parent" SF-Oakland metro, likely because most of the people in the latter are scattered around the East Bay.
+
+
 ## Why?
 
 I wanted to find a way to compare the way people in different metropolitan areas actually live, and I was concerned that
 densities of cities tend to be artifacts of the way municipal boundaries are drawn, while densities of counties (hence metros)
 tend to be strongly affected by outliers (half of the "Miami metropolitan area" is an Everglades preserve). 
 
-This leads to some surprising results. Most people would be shocked to find that the median Denverite lives in a denser
+This leads to some surprising results. Based on the colloquial reputations of the cities, most people would be surprised 
+to find that the median Denverite lives in a denser
 neighborhood than the median Bostonian. After all, Boston is a darling of the urbanist movement, and Denver is a recent growth
-magnet in the "suburban" area. What seems to be happening is that lot sizes, rather than the presence of apartment buildings,
+magnet developed largely after the "suburbanization" movement. 
+What seems to be happening is that lot sizes, rather than the presence of apartment buildings,
 are the primary determinant of effective density for the majority of Americans in large metropolitan areas. Even though San Jose
 is mostly single-family homes, they are mostly on small properties that lead to a higher density-in-reality for most residents
 than what we observe in Philadelphia, where the majority of residents live in low-density sprawl, despite its larger urban core.

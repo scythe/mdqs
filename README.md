@@ -2,9 +2,9 @@
 
 ![Graph of cities by median population density with octiles](https://raw.githubusercontent.com/scythe/mdqs/master/city_pdqs.jpg)
 
-The median population density for a metropolitan area, considered by ZIP code, is defined as the density of a zip code
-such that half of the people in the metro area live in ZIP codes with lower population densities and half live in zip codes
-with higher population densities. The octiles are defined similarly, with 12.5%, 25%, etc living in zip codes with densities
+The median population density for a metropolitan area, considered by ZIP code, is defined as the density of a ZIP code
+such that half of the people in the metro area live in ZIP codes with lower population densities and half live in ZIP codes
+with higher population densities. The octiles are defined similarly, with 12.5%, 25%, etc living in ZIP codes with densities
 lower than the octile density. Where necessary, linear interpolation is applied, although this has a small effect.
 
 The 20 largest metropolitan areas (from New York to St. Louis) are included, as well as three "satellites" of larger 
